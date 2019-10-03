@@ -16,11 +16,21 @@ h2{
 
 textarea{
     text-align: center;
-    margin-left: 44%;
     display: center;
+    position: relative;
+    left: 44%;
 }
 
 button{
 
-    margin-left: 44.5%
+    position: relative;
+    left: 44.5%;
 }
+
+
+@media only screen and (max-width: 720px) {
+    textarea,button{
+        margin-left: -10%;
+
+    }
+  }
