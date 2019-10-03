@@ -1,0 +1,26 @@
+h1{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 55px;
+    text-align: center;
+    
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+textarea{
+    text-align: center;
+    margin-left: 44%;
+    display: center;
+}
+
+button{
+
+    margin-left: 44.5%
+}
